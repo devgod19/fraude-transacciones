@@ -15,6 +15,8 @@ Imbalanced-learn (SMOTE)
 Matplotlib / Seaborn
 📊 Modelos implementados
 
+El codigo como tal se encuentra en la carpeta notebooks
+
 Regresión Logística
 git clone https://github.com/devgod19/fraude-transacciones.git 
 cd fraude-transacciones
